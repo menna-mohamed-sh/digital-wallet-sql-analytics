@@ -21,7 +21,7 @@ To run any query yourself: open `practice.db` with any SQLite client, or from th
 
 ## Key findings
 
-- Only 33.7% of signups ever completed a transaction — the project's core finding
+- Only 33.7% of signups ever made a transaction — the project's core finding
 - KYC submission is the single worst-performing funnel step (63.9%)
 - Android app version 3.2 caused a measurable drop in KYC completions, fixed in the next release
 - A one-month payment failure spike (22%) was isolated to a single banking partner and resolved by month's end
